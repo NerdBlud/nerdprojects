@@ -16,7 +16,7 @@ Future projects in this repository may use the following technologies:
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Node.js
-- **Frameworks & Libraries:** CustomTkinter, Pygame
+- **Frameworks & Libraries:** CustomTkinter, Pygame, SCSS, Tailwind and more!
 - **Tools:** Git, GitHub, VS Code
 
 ## 🛠️ Getting Started
