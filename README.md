@@ -19,10 +19,6 @@ Future projects in this repository may use the following technologies:
 - **Frameworks & Libraries:** CustomTkinter, Pygame, SCSS, Tailwind and more!
 - **Tools:** Git, GitHub, VS Code
 
-## 🛠️ Getting Started
-
-Once projects are available, instructions on how to clone, set up, and run each project will be provided in this section.
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas or improvements, feel free to fork this repository, make your changes, and submit a pull request.
@@ -33,7 +29,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## 📬 Contact
 
-For any inquiries or to connect with NerdBlud, feel free to reach out via [your email or social media link].
+For any inquiries or to connect with NerdBlud, feel free to reach out via fd3qcdl6@duck.com.
 
 ---
 
