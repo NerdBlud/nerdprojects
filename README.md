@@ -1,6 +1,6 @@
 # 🚀 NerdProjects
 
-Welcome to **NerdProjects**—a showcase of innovative and creative projects developed by **NerdBlud**. While we’re just getting started, this space will soon be filled with diverse and exciting software projects. Stay tuned!
+Welcome to **NerdProjects** a showcase of innovative and creative projects developed by **NerdBlud**. While we’re just getting started, this space will soon be filled with diverse and exciting software projects. Stay tuned!
 
 ## 📝 Overview
 
