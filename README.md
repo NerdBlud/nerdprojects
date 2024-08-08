@@ -2,16 +2,6 @@
 
 Welcome to **NerdProjects**—a showcase of innovative and creative projects developed by **NerdBlud**. While we’re just getting started, this space will soon be filled with diverse and exciting software projects. Stay tuned!
 
-## 📄 Table of Contents
-
-- [Overview](#overview)
-- [Projects](#projects)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 📝 Overview
 
 **NerdProjects** is a repository where **NerdBlud** will share various projects, covering areas such as web development, game development, automation tools, and more. This repository is a work in progress, with many exciting developments on the horizon.
